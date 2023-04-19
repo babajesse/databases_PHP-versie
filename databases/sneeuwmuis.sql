@@ -11,6 +11,6 @@ CREATE TABLE 'dieren' (
     );
 
     INSERT INTO 'dieren' ('id', 'product', 'prijs'VALUES 
-    (1, 'cavia', '40')
-    (2, 'Goudvis', '2')
-    (3, 'Kanarie', '15')
+    (1, 'cavia', '40'),
+    (2, 'Goudvis', '2'),
+    (3, 'Kanarie', '15');
